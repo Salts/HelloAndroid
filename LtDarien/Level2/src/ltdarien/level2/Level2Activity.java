@@ -28,7 +28,7 @@ public class Level2Activity extends Activity implements OnClickListener{
 		// TODO Auto-generated method stub
 		
 		Intent intent = new Intent(Level2Activity.this, Level2Toaster.class);
-		intent.putExtra("text", etMain.getText());
+		intent.putExtra("text", etMain.getText().toString());
 		startActivity(intent);
 		
 	}

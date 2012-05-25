@@ -99,3 +99,28 @@ activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.Com
 deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337921494940
 activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337921578129
 activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1337921578275
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1337921605190
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337921624532
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922168904
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1337922169066
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1337922183710
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922199505
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922205684
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922215795
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922317162
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1337922317364
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavadocView",1337922338740
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavadocView",1337922338778
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1337922350050
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922360214
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922471252
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1337922520224
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.RunLast",1337922521258
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922521303
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922522707
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922522809
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1337922524470
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1337922524517
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1337922525472
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1337922526095
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1337922526874
