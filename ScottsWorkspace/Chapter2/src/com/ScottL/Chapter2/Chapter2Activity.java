@@ -28,7 +28,9 @@ public class Chapter2Activity extends Activity {
         		}
         		return false;
         	}
-        }); 			// This makes it so that you can Type then Press the 'ENTER' key, or you can press the enter Button
+        }); 			       // This makes it so that you can Type then                              
+                                           // press the enter Button
+                                           // Press the 'ENTER' key, or you can   
         
         button1.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
