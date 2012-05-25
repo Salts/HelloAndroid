@@ -1,0 +1,14 @@
+package ltdarien.level2;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class Level2Toaster extends Activity {
+
+	@Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.toaster);
+	}
+	
+}

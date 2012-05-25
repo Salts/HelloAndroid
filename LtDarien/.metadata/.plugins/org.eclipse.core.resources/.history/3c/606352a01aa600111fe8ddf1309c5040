@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Level2Activity!</string>
+    <string name="app_name">Ltdarien.Level2</string>
+    <string name="etMain">Enter toaster text here</string>
+    <string name="ok">OK</string>
+
+</resources>
