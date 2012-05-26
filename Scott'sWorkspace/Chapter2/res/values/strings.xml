@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Chapter2Activity!</string>
+    <string name="app_name">Chapter2</string>
+    <string name="inputfromuser"></string>
+    <string name="buttonText">"Enter"</string>
+    <string name="hintForText">Please type anything</string>
+    <string name="textViewText">So this is my Chapter 2 app. You type something in, then press either the ENTER key or the Enter button. I hope it works!</string>
+
+</resources>
