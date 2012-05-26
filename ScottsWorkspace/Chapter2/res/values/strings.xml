@@ -6,6 +6,6 @@
     <string name="inputfromuser"></string>
     <string name="buttonText">"Enter"</string>
     <string name="hintForText">Please type anything</string>
-    <string name="textViewText">So this is my Chapter 2 app. You type something in, then press either the ENTER key or the Enter button. I hope it works!</string>
+    <string name="textViewText">So this is my Chapter 2 app. You type something in, then the Enter button. I hope it works!</string>
 
 </resources>

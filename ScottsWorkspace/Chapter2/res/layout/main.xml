@@ -25,7 +25,8 @@
         android:layout_columnSpan="2"
         android:layout_gravity="bottom|right"
         android:layout_row="0"
-        android:text="@string/buttonText" />
+        android:text="@string/buttonText"
+        android:onClick="onClick" />
 
     <Space
         android:layout_width="122dp"
