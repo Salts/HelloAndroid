@@ -18,5 +18,6 @@ public class TextFieldActivity extends ButtonActivity implements OnClickListener
 				return false;
 			}
         });       
+
     }
 }
